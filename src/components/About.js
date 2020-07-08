@@ -6,7 +6,7 @@ export default class About extends Component {
                 <div className="row">
                 <div className="three columns">
                     <h2 id="hideabovepic">aaaa</h2>
-                    <img className="" src="images/SAYA.jpg" alt="" />
+                    <img className="" src="images/SAYA.JPG" alt="" />
                 </div>
                 <div className="nine columns main-col">
                     <h2>About Me</h2>
