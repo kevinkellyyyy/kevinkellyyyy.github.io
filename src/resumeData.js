@@ -19,9 +19,9 @@ let resumeData = {
         {
             "id" : 3,
             "when" : "May 2020",
-            "what" : "Senior High School",
+            "what" : "Indosat Ooredoo Digital Camp - IDCamp",
             "where" : "Dicoding",
-            "city" : "Indosat Ooredoo Digital Camp = IDCamp",
+            "city" : "Tangerang",
             "notes" : ""
         },
     ],
