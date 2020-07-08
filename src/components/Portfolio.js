@@ -93,6 +93,20 @@ export default class Portfolio extends Component {
                             </a>
                             </div>
                         </div> {/* item end */}
+                        <div className="columns portfolio-item">
+                            <div className="item-wrap">
+                            <a href="#modal-07" title>
+                                <img alt="" src="images/kellsmoviezf.JPG" />
+                                <div className="overlay">
+                                <div className="portfolio-item-meta">
+                                    <h5>Kell's Moviez</h5>
+                                    <p>Final Project PTI 2018</p>
+                                </div>
+                                </div>
+                                <div className="link-icon"><i className="icon-plus" /></div>
+                            </a>
+                            </div>
+                        </div> {/* item end */}
                     </div> {/* portfolio-wrapper end */}
                 </div> {/* twelve columns end */}
                 {/* Modal Popup
@@ -105,8 +119,7 @@ export default class Portfolio extends Component {
                     <span className="categories"><i className="fa fa-tag" />Daily News app - Java Android</span>
                     </div>
                     <div className="link-box">
-                    <a href="#">Details</a>
-                    <a href="#">Demo</a>
+                    <a href="https://github.com/kevinkellyyyy/kellsnews">Details</a>
                     <a className="popup-modal-dismiss">Close</a>
                     </div>
                 </div>{/* modal-01 End */}
@@ -118,7 +131,7 @@ export default class Portfolio extends Component {
                     <span className="categories"><i className="fa fa-tag" />static book list app - Java Android</span>
                     </div>
                     <div className="link-box">
-                    <a href="#">Details</a>
+                    <a href="https://github.com/kevinkellyyyy/kellsbooks">Details</a>
                     <a className="popup-modal-dismiss">Close</a>
                     </div>
                 </div>{/* modal-02 End */}
@@ -130,7 +143,7 @@ export default class Portfolio extends Component {
                     <span className="categories"><i className="fa fa-tag" />Thesis Project - Python, Google Collab, MLP, FastText, Flask</span>
                     </div>
                     <div className="link-box">
-                    <a href="#">Details</a>
+                    <a href="https://drive.google.com/drive/folders/1IX16XzhDV_HpDFSXWKMGeEmz_UT6-pFM?usp=sharing">Details</a>
                     <a className="popup-modal-dismiss">Close</a>
                     </div>
                 </div>{/* modal-03 End */}
@@ -142,7 +155,7 @@ export default class Portfolio extends Component {
                     <span className="categories"><i className="fa fa-tag" />Education App - Ionic Angular</span>
                     </div>
                     <div className="link-box">
-                    <a href="#">Details</a>
+                    <a href="https://play.google.com/store/apps/details?id=app.hatchoko.ragambudaya">Details</a>
                     <a className="popup-modal-dismiss">Close</a>
                     </div>
                 </div>{/* modal-04 End */}
@@ -154,7 +167,7 @@ export default class Portfolio extends Component {
                     <span className="categories"><i className="fa fa-tag" />Dicoding Academy</span>
                     </div>
                     <div className="link-box">
-                    <a href="#">Details</a>
+                    <a href="https://kellsnews-dicodingtest.surge.sh/">Details</a>
                     <a className="popup-modal-dismiss">Close</a>
                     </div>
                 </div>{/* modal-05 End */}
@@ -166,7 +179,19 @@ export default class Portfolio extends Component {
                     <span className="categories"><i className="fa fa-tag" />refresh basic knowledge</span>
                     </div>
                     <div className="link-box">
-                    <a href="#">Details</a>
+                    <a href="https://kevinkellyyyy.github.io/todo-coba/">Details</a>
+                    <a className="popup-modal-dismiss">Close</a>
+                    </div>
+                </div>{/* modal-06 End */}
+                <div id="modal-07" className="popup-modal mfp-hide">
+                    <img className="scale-with-grid" src="images/kellsmoviez.JPG" alt="" />
+                    <div className="description-box">
+                    <h4>Kell's Moviez</h4>
+                    <p>This is the final project of the Introduction to internet technology course. Built using angular js with the help of data from The Movie Database (TMDb). Inside is a list of what movies are currently playing in the cinema at this time. we can also check information about the film such as synopsis, cast, and the cost of making the film.</p>
+                    <span className="categories"><i className="fa fa-tag" />What's playing?</span>
+                    </div>
+                    <div className="link-box">
+                    <a href="https://kellsmovies.surge.sh">Details</a>
                     <a className="popup-modal-dismiss">Close</a>
                     </div>
                 </div>{/* modal-06 End */}
