@@ -43,7 +43,7 @@ let resumeData = {
             "what" : "Team Leader",
             "where" : "Teamwork and Leadership Training",
             "city" : "Univeristas Multimedia Nusantara",
-            "notes" : "",
+            "notes" : "team work and leadership is one of the mandatory activities of the UMN campus. umn will divide the whole new generation to group into groups of 14 people. I was chosen to be the leader of my group. the activities carried out in the field of educational education in kindergarten in Daerang Medang Lestari. the costs required for this activity must also be sought by our own business, not from joint ventures. learning that me and my team do is like how to care for the environment one of them is a tree. The activities carried out were education in the form of fairy tales, quizzes, and closed by planting small plants resembling trees in their school grounds.",
         },
         {
             "id" : 3,
