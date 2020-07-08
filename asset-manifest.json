@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kevinisyanta/static/css/main.5f361e03.chunk.css",
-    "main.js": "/kevinisyanta/static/js/main.616d66ac.chunk.js",
-    "main.js.map": "/kevinisyanta/static/js/main.616d66ac.chunk.js.map",
+    "main.js": "/kevinisyanta/static/js/main.9e5681c5.chunk.js",
+    "main.js.map": "/kevinisyanta/static/js/main.9e5681c5.chunk.js.map",
     "runtime-main.js": "/kevinisyanta/static/js/runtime-main.ba9ef0ba.js",
     "runtime-main.js.map": "/kevinisyanta/static/js/runtime-main.ba9ef0ba.js.map",
     "static/js/2.8f18329a.chunk.js": "/kevinisyanta/static/js/2.8f18329a.chunk.js",
     "static/js/2.8f18329a.chunk.js.map": "/kevinisyanta/static/js/2.8f18329a.chunk.js.map",
     "index.html": "/kevinisyanta/index.html",
-    "precache-manifest.f7a41b4205aeb2a5c843a4b6a353e89a.js": "/kevinisyanta/precache-manifest.f7a41b4205aeb2a5c843a4b6a353e89a.js",
+    "precache-manifest.07606a7ec200c46cc016dabd4aad4fba.js": "/kevinisyanta/precache-manifest.07606a7ec200c46cc016dabd4aad4fba.js",
     "service-worker.js": "/kevinisyanta/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/kevinisyanta/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.8f18329a.chunk.js.LICENSE.txt": "/kevinisyanta/static/js/2.8f18329a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ba9ef0ba.js",
     "static/js/2.8f18329a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.616d66ac.chunk.js"
+    "static/js/main.9e5681c5.chunk.js"
   ]
 }
