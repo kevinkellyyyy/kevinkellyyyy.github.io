@@ -12,7 +12,7 @@ export default class Portfolio extends Component {
                         <div className="columns portfolio-item">
                             <div className="item-wrap">
                             <a href="#modal-01" title>
-                                <img alt="" src="images/kellnewsf.jpg" />
+                                <img alt="" src="images/kellnewsf.JPG" />
                                 <div className="overlay">
                                 <div className="portfolio-item-meta">
                                     <h5>Kell's News</h5>
@@ -26,7 +26,7 @@ export default class Portfolio extends Component {
                         <div className="columns portfolio-item">
                             <div className="item-wrap">
                             <a href="#modal-02" title>
-                                <img alt="" src="images/kellbookf.jpg" />
+                                <img alt="" src="images/kellbookf.JPG" />
                                 <div className="overlay">
                                 <div className="portfolio-item-meta">
                                     <h5>Kell's Books</h5>
@@ -40,7 +40,7 @@ export default class Portfolio extends Component {
                         <div className="columns portfolio-item">
                             <div className="item-wrap">
                             <a href="#modal-03" title>
-                                <img alt="" src="images/sentimenanf.jpg" />
+                                <img alt="" src="images/sentimenanf.JPG" />
                                 <div className="overlay">
                                 <div className="portfolio-item-meta">
                                     <h5>Sentiment Analysis in Ecommerce Platform</h5>
@@ -68,7 +68,7 @@ export default class Portfolio extends Component {
                         <div className="columns portfolio-item">
                             <div className="item-wrap">
                             <a href="#modal-05" title>
-                                <img alt="" src="images/kellnewsdicf.jpg" />
+                                <img alt="" src="images/kellnewsdicf.JPG" />
                                 <div className="overlay">
                                 <div className="portfolio-item-meta">
                                     <h5>Kell's News - Dicoding</h5>
@@ -82,7 +82,7 @@ export default class Portfolio extends Component {
                         <div className="columns portfolio-item">
                             <div className="item-wrap">
                             <a href="#modal-06" title>
-                                <img alt="" src="images/cobacrudf.jpg" />
+                                <img alt="" src="images/cobacrudf.JPG" />
                                 <div className="overlay">
                                 <div className="portfolio-item-meta">
                                     <h5>Simple React Todo List</h5>
@@ -98,7 +98,7 @@ export default class Portfolio extends Component {
                 {/* Modal Popup
                             --------------------------------------------------------------- */}
                 <div id="modal-01" className="popup-modal mfp-hide">
-                    <img className="scale-with-grid" src="images/kellnews.jpg" alt="" />
+                    <img className="scale-with-grid" src="images/kellnews.JPG" alt="" />
                     <div className="description-box">
                     <h4>Kell's News</h4>
                     <p>This application is based on java android by using the API from the News API as a source of news that is displayed. There are Indonesian top news headline menu features, a selection of world news portal features, and the desired news search feature. The news we are reading can also be shared by pressing the share button when the news is opened, there is also a notification feature.</p>
@@ -111,7 +111,7 @@ export default class Portfolio extends Component {
                     </div>
                 </div>{/* modal-01 End */}
                 <div id="modal-02" className="popup-modal mfp-hide">
-                    <img className="scale-with-grid" src="images/kellbook.jpg" alt="" />
+                    <img className="scale-with-grid" src="images/kellbook.JPG" alt="" />
                     <div className="description-box">
                     <h4>Kell's Books</h4>
                     <p>This application is a midterm assignment for Mobile Programming 1. Java-based Android courses In this application there is a list of books with an internal database which, if opened, will display the info of the author, publisher and so on and can be saved to favorites. There is a list of favorite books and can delete the book from favorites if it is not wanted.</p>
@@ -123,7 +123,7 @@ export default class Portfolio extends Component {
                     </div>
                 </div>{/* modal-02 End */}
                 <div id="modal-03" className="popup-modal mfp-hide">
-                    <img className="scale-with-grid" src="images/sentimenan.jpg" alt="" />
+                    <img className="scale-with-grid" src="images/sentimenan.JPG" alt="" />
                     <div className="description-box">
                     <h4>Sentiment analysis in Ecommerce Platform</h4>
                     <p>Indonesia is one from many countries in the world which has the highest growth of e-commerce platforms. By the mean of dynamic website technology, through their social media accounts, digital society often express their opinion on e-commerce platforms. Oftentimes, in a large scale, capital leading e-commerce companies try to evaluate sentiment polarity of their new promotion or sale strategy through such data. However, as copious amount of opinions from e-commerce’s various social media accounts, the manual labelling process might devour large amount of resources and prone to human errors. For tackling such problem, previous researches show a promising result by encoding such problem into machine learning classification task. Henceforth, in this research, we try to utilize multilayer perceptron (MLP), as one of machine learning classification algorithm, for tackling such problem and analyze the performance of it. In this research, we also present the effect of a comparatively new word embedding model, fastText and a well-known term frequency – inverse document frequency (TF–IDF) as a feature extraction method for MLP method. Our experiment shows that the developed MLP model able to achieves an accuracy score of 89.24% and F1-score of 89%.</p>
@@ -147,7 +147,7 @@ export default class Portfolio extends Component {
                     </div>
                 </div>{/* modal-04 End */}
                 <div id="modal-05" className="popup-modal mfp-hide">
-                    <img className="scale-with-grid" src="images/kellnewsdic.jpg" alt="" />
+                    <img className="scale-with-grid" src="images/kellnewsdic.JPG" alt="" />
                     <div className="description-box">
                     <h4>"Kell's News - Dicoding</h4>
                     <p>This application is the same as I have done before using java android. but here I change it to the standard ES6 programming form, with webpack and babel loader. I made it again because at that time the test given was quite simple, and it uses an API, so I remembered my old assignment as the theme.</p>
@@ -159,7 +159,7 @@ export default class Portfolio extends Component {
                     </div>
                 </div>{/* modal-05 End */}
                 <div id="modal-06" className="popup-modal mfp-hide">
-                    <img className="scale-with-grid" src="images/cobacrud.jpg" alt="" />
+                    <img className="scale-with-grid" src="images/cobacrud.JPG" alt="" />
                     <div className="description-box">
                     <h4>Simple React Todo List</h4>
                     <p>trying to refresh what used to be done during the internship, although not everything, but only really basic, \"to-do-list\" CRUD is very simple, even without decorating, because I want to refresh the basis of React Js. how to use simple functions and state management. But in the future I will develop it again and tidy it up by decorating it in such a way.</p>
