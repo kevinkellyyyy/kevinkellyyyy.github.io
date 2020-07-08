@@ -26,7 +26,7 @@ export default class Resume extends Component {
             ----------------------------------------------- */}
                 <div className="row work">
                 <div className="three columns header-col">
-                    <h1><span>Work</span></h1>
+                    <h1><span>Organization Experience</span></h1>
                 </div>
                 <div className="nine columns main-col">
                     {propsResumeData.organizationExperience.map((org, index) => {
@@ -38,6 +38,21 @@ export default class Resume extends Component {
                         </div>
                         </div>
                     })}
+                </div> {/* main-col end */}
+                </div> {/* End Work */}
+
+                <div className="row work">
+                <div className="three columns header-col">
+                    <h1><span>Work Experience</span></h1>
+                </div>
+                <div className="nine columns main-col">
+                    <div className="row item">
+                        <div className="twelve columns">
+                            <h3>{propsResumeData.workExperience.where}</h3>
+                            <p className="info">{propsResumeData.workExperience.what} <span>•</span> <em className="date">{propsResumeData.workExperience.when}</em></p>
+                            <p>{propsResumeData.workExperience.notes}</p>
+                        </div>
+                    </div>
                 </div> {/* main-col end */}
                 </div> {/* End Work */}
                 {/* Skills

@@ -6,7 +6,7 @@ let resumeData = {
             "what" : "Senior High School",
             "where" : "SMAN 3 Kabupaten Tangerang",
             "city" : "Tangerang",
-            "notes" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "notes" : ""
         },
         {
             "id" : 2,
@@ -14,7 +14,7 @@ let resumeData = {
             "what" : "Student of Computer Science",
             "where" : "Universitas Multimedia Nusantara",
             "city" : "Tangerang",
-            "notes" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "notes" : ""
         },
         {
             "id" : 3,
@@ -22,7 +22,7 @@ let resumeData = {
             "what" : "Senior High School",
             "where" : "Dicoding",
             "city" : "Indosat Ooredoo Digital Camp = IDCamp",
-            "notes" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "notes" : ""
         },
     ],
     "organizationExperience" : [
@@ -32,7 +32,7 @@ let resumeData = {
             "what" : "Social Community",
             "where" : "RENCANG Social Community",
             "city" : "Univeristas Multimedia Nusantara",
-            "notes" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "notes" : "",
             "jobdesk" : [
                 "member (2016)", "Coordinator of 3 different social events (2017 - 2018)", "Person in Charge/Mentor for new generation member (2018)"
             ]
@@ -43,7 +43,7 @@ let resumeData = {
             "what" : "Team Leader",
             "where" : "Teamwork and Leadership Training",
             "city" : "Univeristas Multimedia Nusantara",
-            "notes" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "notes" : "",
         },
         {
             "id" : 3,
@@ -51,7 +51,7 @@ let resumeData = {
             "what" : "UMN Documentation Team Member",
             "where" : "WISUDA XIV",
             "city" : "ICE BSD",
-            "notes" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "notes" : "I like photography and videography even though I'm not good, but I always try new techniques and keep learning. for this reason I joined this organization. I used to be tasked with documenting moments when there were official events held by the university such as education week, big competitions, and graduation. During graduation I was assigned to be a cameraman whose image was displayed on a large screen in the center of the stage live.",
         },
         {
             "id" : 4,
@@ -59,7 +59,7 @@ let resumeData = {
             "what" : "Head of Facilities and Equipment",
             "where" : "MAXIMA 2018",
             "city" : "Univeristas Multimedia Nusantara",
-            "notes" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "notes" : "I can say this is my most tiring committee time but very exciting and always makes a miss with my fellow division heads and also all members, here I play the role of head of facilities and equipment. where I am responsible for the needs and tools needed ranging from small things like scissors and tape to the stage, parking lots, and borrowing space during the course of the event. Maxima is an annual event on my campus that runs for one week that aims to showcase all the activities of organizations and communities on campus, with the highlight of the show is the appearance of famous artists from Indonesia.",
         }
     ],
     "workExperience" : {
@@ -67,7 +67,7 @@ let resumeData = {
         "what" : "Front-End Engineer Intern",
         "where" : "SIRCLO",
         "city" : "Tangerang BSD",
-        "notes" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        "notes" : "Many things I learned during there, how to work in teams, help each other and respect, good bonding with the team and other colleagues, what are the ways to complete work such as agile scrum, and kanban. I am also happy to be able to learn new frameworks and tools that have never been taught in college, such as React JS, Apollo Client, GraphQL, and others. Hopefully with this experience I can continue to learn later in a new place."
     },
 }
 

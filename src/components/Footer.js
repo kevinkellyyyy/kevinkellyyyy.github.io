@@ -16,7 +16,7 @@ export default class Footer extends Component{
                         <li>© Copyright 2020 Kevin Kelly Isyanta</li>
                     </ul>
                 </div>
-                <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
+                <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="fa fa-arrow-up" /></a></div>
                 </div>
             </footer>
         )
