@@ -32,7 +32,7 @@ let resumeData = {
             "what" : "Social Community",
             "where" : "RENCANG Social Community",
             "city" : "Univeristas Multimedia Nusantara",
-            "notes" : "",
+            "notes" : "RENCANG, is a UMN Social organization. It is the first campus organization that I joined. Here I learn a lot of things because the activities carried out are social. Some activities that I did during my two-year term, such as a visit to the estuary estuary, where we help children and the community there. I have also visited and made educational and entertainment events at the children's orphanage with disabilities. There are also anti-drug and anti-harassment campaign activities. Here every year there are 4 big events, and each event we are free to choose the division we want. some positions that I've done: member (2016), Coordinator of 3 different social events (2017 - 2018), Person in Charge/Mentor for new generation member (2018)",
             "jobdesk" : [
                 "member (2016)", "Coordinator of 3 different social events (2017 - 2018)", "Person in Charge/Mentor for new generation member (2018)"
             ]
